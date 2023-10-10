@@ -1,0 +1,23 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/colidiu.wav-58af9caf1c1d1ca1a897ff9c9eb1b77a.sample"
+
+[deps]
+
+source_file="res://sons/colidiu.wav"
+dest_files=[ "res://.import/colidiu.wav-58af9caf1c1d1ca1a897ff9c9eb1b77a.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=0
